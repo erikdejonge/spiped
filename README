@@ -4,6 +4,7 @@ spiped design
 Introduction
 ------------
 
+
 spiped (pronounced "ess-pipe-dee") is a utility for creating symmetrically
 encrypted and authenticated pipes between socket addresses, so that one may
 connect to one address (e.g., a UNIX socket on localhost) and transparently
